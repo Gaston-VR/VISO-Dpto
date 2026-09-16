@@ -170,7 +170,7 @@
     <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
       <label bordercolor="0x000000" borderradius="1" backgroundalpha="1" borderalpha="1" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="1" height="20" border="1" width="180" background="1" textalpha="1"/>
       <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="112.9/-1.9/100.0" skinid="ht_node" title="" id="Point01" description="" pan="-223.58" url="{node3}" tilt="-3.66"/>
+      <hotspot target="112.9/-1.9/100.0" skinid="ht_node" title="" id="Point01" description="" pan="-224.79" url="{node3}" tilt="-2.71"/>
       <hotspot target="-43.7/-0.3/100.0" skinid="ht_node" title="" id="Point02" description="" pan="-116.54" url="{node5}" tilt="-2.51"/>
       <hotspot target="-19.4/-15.8/100.0" skinid="ht_node" title="" id="Point03" description="" pan="-21.54" url="{node7}" tilt="-11.11"/>
     </hotspots>
